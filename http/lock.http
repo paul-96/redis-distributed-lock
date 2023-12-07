@@ -1,0 +1,5 @@
+### Lock Test1
+GET localhost:8080/api/name
+
+### Lock Test2
+GET localhost:8080/api/name
